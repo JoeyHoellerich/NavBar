@@ -12,10 +12,12 @@ ul {
 li {
   display: inline-block;
   border: 1px solid black;
-  padding: 2px;
+  padding: 5px;
   margin: 10px;
 }
 
 a {
   padding: 5px;
+  text-decoration: none;
+  color: darkblue;
 }
